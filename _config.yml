@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lorenzo Steccanella"
 title_separator          : "-"
 name                     : &name "Lorenzo Steccanella"
-description              : &description "Ph.D. Student at Universitat Pompeu Fabra"
+description              : &description "Ph.D. Student AI&ML, UPF"
 url                      : https://lorenzosteccanella.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lorenzosteccanella/lorenzosteccanella.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lorenzo Steccanella"
   avatar           : "profile.png"
-  bio              : "I am a Ph.D. student in the area of Reinforcement Learning at [UPF](https://www.upf.edu/). My main interests are in the area of Deep Reinforcement Learning with a focus on Hierarchical Reinforcement Learning."
+  bio              : "Ph.D. Student AI&ML, UPF"
   location         : "Barcelona, Spain"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
