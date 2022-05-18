@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can get my CV  [here](https://www.dropbox.com/s/9enemfakwsovf0q/CV_Lorenzo_Steccanella.pdf?dl=0)
+You can get my CV [here](https://www.dropbox.com/s/9enemfakwsovf0q/CV_Lorenzo_Steccanella.pdf?dl=0)
