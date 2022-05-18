@@ -15,9 +15,9 @@ I am based in Barcelona where I joined the [Artificial Intelligence and Machine 
 
 Before moving to Barcelona I have been working in two other laboratories:
 
-- [Blue Brain Project EPFL](https://bluebrain.epfl.ch/) with the goal to develop Deep Neural Network for generative vision problems.
+- [Blue Brain Project EPFL](https://bluebrain.epfl.ch/) developing Deep Neural Network for generative vision problems.
 
-- [University of Verona Intcatch Project](http://intcatch.eu/), to develop Deep Learning systems for vision and Multi-agent planning frameworks.
+- [University of Verona Intcatch Project](http://intcatch.eu/), developing Deep Learning systems for vision and devoloping localization systems for mobile robots.
 
 
 
