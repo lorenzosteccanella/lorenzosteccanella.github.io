@@ -26,9 +26,8 @@ cesses. - IJCAI 2021 Generalization in Planning Workshop.
 Steccanella Lorenzo, et al. State Representation Learning for Goal-Conditioned Reinforce-
 ment Learning - arXiv preprint arXiv:2205.01965 (2022)
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+
 
 {% include base_path %}
 
