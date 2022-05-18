@@ -12,8 +12,7 @@ Artificial Intelligence and Robotics (AIRO) Genova, 28 November, 2016.
 
 * Waterline and obstacle detection in images from low-cost autonomous boats
 Steccanella Lorenzo, et al. Waterline and obstacle detection in images from low-cost autono-
-mous boats for environmental monitoring. - Robotics and Autonomous Systems 124 (2020):
-103346.
+mous boats for environmental monitoring. - Robotics and Autonomous Systems 124 (2020):103346.
 
 * Hierarchical reinforcement learning for efficient exploration and transfer
 Steccanella Lorenzo, et al. Hierarchical reinforcement learning for efficient exploration and
