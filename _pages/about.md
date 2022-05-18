@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Welcome
 
 I am a Ph.D. student in the area of Reinforcement Learning at [UPF](https://www.upf.edu/). My main interests are in the area of Deep Reinforcement Learning with a focus on Hierarchical Reinforcement Learning.
 
