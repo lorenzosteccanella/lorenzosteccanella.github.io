@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lorenzo Steccanella"
 title_separator          : "-"
 name                     : &name "Lorenzo Steccanella"
-description              : &description "Ph.D. Reinforcement Learning, AI&ML UPF"
+description              : &description "Ph.D. Reinforcement Learning, AI&ML Universitat Pompeu Fabra"
 url                      : https://lorenzosteccanella.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lorenzosteccanella/lorenzosteccanella.github.io"
@@ -84,8 +84,8 @@ analytics:
 # Site Author
 author:
   name             : "Lorenzo Steccanella"
-  avatar           : "bio-photo-2.jpg"
-  bio              : "Ph.D. Reinforcement Learning, AI&ML UPF"
+  avatar           : "WhatsApp Image 2022-05-18 at 14.56.25.jpeg"
+  bio              : "Ph.D. Reinforcement Learning, AI&ML Universitat Pompeu Fabra"
   location         : "Barcelona, Spain"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
