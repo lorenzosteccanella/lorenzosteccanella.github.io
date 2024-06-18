@@ -26,4 +26,10 @@ cesses. - IJCAI 2021 Generalization in Planning Workshop.
 Steccanella Lorenzo, et al. State Representation Learning for Goal-Conditioned Reinforce-
 ment Learning - arXiv preprint arXiv:2205.01965 (2022)
 
+* **(2023) [Asymmetric Norms to Approximate the Minimum Action Distance](https://arxiv.org/pdf/2312.10276)** \
+  Steccanella Lorenzo, et al. Asymmetric Norms to Approximate the Minimum Action Distance. - GCRL Workshop NeurIPS 2023.
+
+* **(2023) [Representation Learning for Hierarchical Reinforcement Learning](https://www.tdx.cat/handle/10803/688366#page=35)** \
+  Lorenzo Steccanella. Representation Learning for Hierarchical Reinforcement Learning. - Ph.D. Thesis, Universitat Pompeu Fabra, May 2023.
+
 You can also find my articles on [**my Google Scholar profile**](https://scholar.google.com/citations?user=ZcxHOUQAAAAJ&hl=en)
