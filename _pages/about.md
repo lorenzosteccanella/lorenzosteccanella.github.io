@@ -7,14 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I received my Ph.D. from the [Universitat Pompeu Fabra](https://www.upf.edu/web/ai-ml) in 2023. 
-My research interests are in the area of Reinforcement Learning, with a focus on Hierarchical Reinforcement Learning and long horizon decision making. I am currently working as a Postdoctoral Researcher in the same group.
+I received my Ph.D. from the Universitat Pompeu Fabra in 2023, where I specialized in 
+Reinforcement Learning. My research primarily focuses on Hierarchical Reinforcement 
+Learning and long-horizon decision-making. Currently, I am working as a Postdoctoral 
+Researcher within the same group, continuing to explore and innovate in these areas.
 
 Before moving to Barcelona I have been working in two other laboratories:
 
-- [Blue Brain Project EPFL](https://bluebrain.epfl.ch/) developing Deep Neural Network for generative vision problems.
+- At the [Blue Brain Project EPFL](https://bluebrain.epfl.ch/), I developed Deep Neural Networks for generative vision problems, significantly improving rendering speeds and image reconstruction techniques.
 
-- [University of Verona Intcatch Project](http://intcatch.eu/), developing Deep Learning systems for vision and localization systems for mobile robots.
+- At the [University of Verona Intcatch Project](http://intcatch.eu/), I worked on developing advanced Deep Learning systems for vision and localization, enhancing the autonomy and accuracy of mobile robots through sophisticated localization algorithms and real-time obstacle detection.
 
 
 
