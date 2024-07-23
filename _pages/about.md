@@ -17,7 +17,7 @@ Before moving to Barcelona I have been working in two other laboratories:
 
 ## Contacts
 
-For formal inquiries, you can reach me at my institutional email: <lorenzo.steccanella@upf.edu>
+For formal inquiries, you can reach me at my institutional email: <lorenzo.steccanella.w@gmail.com>
 
 For informal matters, feel free to contact me at my personal email: <lorenzosteccanella@gmail.com>
 
